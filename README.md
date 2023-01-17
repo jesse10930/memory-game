@@ -15,4 +15,4 @@ To build a full stack MERN app from scratch equipt with user sign in. To practic
 * JWToken and Bcrypt for hashing passwords
 * Robohash for card images
 * Axios for image API requests
-* Heroku for deployment
+* Railway for deployment
